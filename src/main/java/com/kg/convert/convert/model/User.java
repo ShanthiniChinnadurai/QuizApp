@@ -5,7 +5,6 @@ public class User{
 public String name;
 public String email;
 
-
     /**
      * @param name the name to set
      */
